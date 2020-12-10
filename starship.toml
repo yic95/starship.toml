@@ -5,12 +5,12 @@ add_newline = false
 [directory]
 #prefixStyle = "#ffffdd"
 #pathStyle = "#5555dd"
-format="[╭╴](#ffffdd) [$path](#5555dd) [$read_only]($read_only_style)"
+format="[╭╴](#32FF71) [$path](#79CBE2) [$read_only]($read_only_style)"
 
 # Replace the "❯" symbol in the prompt with "λ"
 [character]                            # The name of the module we are configuring is "character"
-success_symbol = "[╰╴](#ffffdd)[λ](#ffcc00)"     # The "success_symbol" segment is being set to "➜" with the color "bold green"
-error_symbol = "[╰╴](#ffffdd)[Δ](#ff5500)"
+success_symbol = "[╰╴](#32FF71)[λ](#DEFD34)"     # The "success_symbol" segment is being set to "➜" with the color "bold green"
+error_symbol = "[╰╴](#32FF71)[Δ](#ff5500)"
 # "[╰╴](yellow)"
 
 [memory_usage]
