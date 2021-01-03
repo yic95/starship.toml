@@ -21,6 +21,9 @@ style = "#084C61"
 [git_branch]
 style = "#5F8DD3"
 
+[python]
+python_binary = "python3"
+
 [git_status]
 style = "#87DEAA"
 #Disable the package module, hiding it from the prompt completely
